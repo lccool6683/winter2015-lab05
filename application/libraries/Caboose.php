@@ -26,6 +26,11 @@ class Caboose {
             'js' => 'bootstrap-confirmation.js',
             'template' => 'confirm'
         ),
+        'jrating' => array(
+            'css' => 'jRatting.jquery.css',
+            'js' => 'jRatting.jquery.js',
+            'template' => 'jrating'
+        ),
      );
     // provide for any fields they need. this should be indexed [component][field]
     var $fields = array();
