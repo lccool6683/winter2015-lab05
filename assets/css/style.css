@@ -3,3 +3,6 @@ body {}
 #content {width:100%; margin-left:5% auto;margin-right:5% auto;}
 #footer {font-size: small; font-style:italic;text-align:center;}
 .row>div {margin-bottom:10px;}
+
+/*error message css style*/
+.errors {color: red; font-weigfht:bold; font-size:large}
